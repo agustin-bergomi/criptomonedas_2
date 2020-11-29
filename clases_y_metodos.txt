@@ -1,0 +1,20 @@
+Planteo de clases y metodos basico
+Algunos de los susts. seran atributos en vez de clases por motivos obvios.
+
+Sustantivos:
+-criptomoneda
+-valor
+-sigla
+-variacion_mensual
+-variacion_porcentual_mensual
+-
+
+Verbos:
+-descargar
+-mostrar
+-ordenar
+-filtrar
+-buscar
+-conectar
+-parsear
+-guardar
